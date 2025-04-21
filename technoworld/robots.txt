@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /login
+Disallow: /logout
+Disallow: /request/success
+Disallow: /error/
+Disallow: /error
+
+Allow: /
+
+Sitemap: https://techno-world.free.nf/sitemap.xm
